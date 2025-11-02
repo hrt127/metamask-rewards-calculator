@@ -1,0 +1,31 @@
+{
+  "name": "metamask-rewards-calculator",
+  "version": "2.0.0",
+  "description": "Economic analysis framework for MetaMask Rewards Season 1",
+  "main": "calculator.js",
+  "scripts": {
+    "start": "node calculator.js",
+    "calculate": "node calculator.js"
+  },
+  "keywords": [
+    "metamask",
+    "rewards",
+    "linea",
+    "defi",
+    "airdrop",
+    "calculator",
+    "points",
+    "crypto",
+    "ethereum",
+    "l2"
+  ],
+  "author": "snowzies",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hrt127/metamask-rewards-calculator.git"
+  }
+}
