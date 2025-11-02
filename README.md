@@ -324,6 +324,10 @@ MIT License - Fork, modify, use freely.
 
 ---
 
+### 🔗 Linked From:
+This calculator is featured in the [defi-research-space](https://github.com/hrt127/defi-research-space) archive as part of the broader tools and airdrop modeling ecosystem. Trying to give back to the community, still new to sharing this formally, please take everything with a pinch of salt. It's a space for respectful and uplifting discussion and help. Featuring more tools, research, th0ts etc. over time. 
+🧮 Future Tools (Placeholder) wen hold my beer (; 
+
 **Built by:** snowzies | Thinking in narratives 🌸  
 
 **Questions? PRs welcome.**
